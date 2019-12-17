@@ -1,2 +1,2 @@
 # verilog
-implementador chaveado de 12 bits para fpga ciclone 2 
+implementador de 12 bits chaveado  para fpga ciclone 2 
